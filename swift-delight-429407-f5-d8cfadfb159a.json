@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "swift-delight-429407-f5",
+  "private_key_id": "d8cfadfb159ab9980f0b4f75e0d10fbecd2e0334",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr3/ktr2joFwx2\nByc6KaV6A6b2PMno9ziR5MZI0vJ+yd24t1PqgxW8A5r5jdRBzJfBqjN10IZNGu1i\n1sHtipBT2zympSWdcEUyWB0t87YJygkwXda6R5yR5h8u4Vn2Y85201zFf7mOY2W3\nZuJf4NoM5JLB0009PonW64JCB0v4qbwcTZr+RA6xThLslBJzj+SnrlMZtudUFMVg\nXy733Gdxtal1vyt7Ke4uTzaFjb/U1IApTSKVf21w7TMbJ64Y4aFHC79r9jS7j7vI\nrxbjKoauCr3s435fEXtuXIFj6YKkD+ckg92ILyi5uVozIqHC89bYVzuQHfA476GT\nNORNEY9/AgMBAAECggEABf8Z8/iXOeW39xQ3z6UtU0z2Ucf8KWcar6hiLJ9De53y\nYOPwhxGMvBMKIKPMoIERWF3mTrl4Pg9u8dBZUr7PW0WeX5gKcGw+1ctSNUy38K5+\nVJQpjjU6ZrK3Ks0M9PY1eVrVdUSIBko8fcIWqs6u/N0qq52CJ91bNMbhtAkKIwJG\nV45Xenf1Ovhci9yShyyXQxME0ZdFuQn7KXkUBkz2CleMZmeYx/CTL2wn0/X9TUkM\nigrx71+Fk8US1MsOaPNfZvePx/7Hqt7kRPe64u2BedgXFY23eKIwhsiD2s5R4DZh\nBbb47oi4e9qJk/+RQMYk/ZqvRnoW4SAK1UuFH0wBoQKBgQDdu6aWR0fF0wFgsqBr\nYNGkBD28jRWzj0J+ZzvoGhxdV73lV2vwpUyoZeVwlxCF59p6NZtlMNG1kzVFi2FU\n4MX+lueb500z4EluK18hInzG7juRB8RgqIfuFc3eW7JZZm0VSqW3/W0OLGwCOgXR\nSOKV8SDaP3LbOA+cW2rhNDNL4QKBgQDGb815LQ5YGmmi6yxt8fsqrOzSRL1+TONF\n29U9a0VnRoTBKB9CRtmCBLjm5Cc13UNEBjnGidrJzaKWhsZFELjKOnlB9yJLoUWd\noHKENL0njexLG8fzhTNEkvDBcx6CW8f29K7h6qLdTPpU8jXr7NbkVtGELEvDTbB/\nVIYPi51HXwKBgCwDgLjZ41xYWzCnpIJMELEfCmYwFzuyVz+iHFkhPbolnZM1vD5j\ngYj32Qh1ZBlAgbS6iWMXwrjpRKzOUv63M3Yq3EStMDz463qL73EzWFNgnMBYK1oI\nehr/hwL5briiRUrxq12PV6N1m+cBP4BgmGGtIJlR+OmdAjRGTTvw0bHhAoGBAJXn\n/hxtqilqgqT97kl8hVa+3gUWwuQ353Vt1hCZCgwz3LQiwEKMTWKIeLqMXwa1CUzJ\nOzo+CBdtjkcSt5OTR1YWiGYJ8VGbGoEypXA0ezT3ZSt0aEASPyGts80gT0sBVPW9\n8KNgYvq1XWNwusVo3QoQgCTOZcm71frK+p+hxAYXAoGAL430BY2mJfKtT2I7+mV7\nuHcKO/Xf2k3WlmowNFpGt8xizwT0JGx93fCaEHkBtqd4i6epXMUWX4LQyQrY9dBm\nj9beZo/qSiNTJGHj3/beKu2RxjhtiKPw6vvaYZJlWQ3XQhw8/L407bXSJiwZkMLA\nKLi/qhFqBu9Qc+ciTWeHUPw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "copy-text-to-sheets-hola@swift-delight-429407-f5.iam.gserviceaccount.com",
+  "client_id": "115549792700938554224",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/copy-text-to-sheets-hola%40swift-delight-429407-f5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
